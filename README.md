@@ -44,7 +44,7 @@
                       border-bottom: 2px solid rgb(0 ,0 ,0);
                       background-color: rgba(255, 255, 255, 0.5);
                       border-radius: 20px;"  
-                      href="cafemenu\cafemenu.html">
+                      href="cafemenu">
                       2.Cafemenu</a><br>
             <a style="display: block;
                       color: rgb(0 ,0 ,0);
@@ -54,7 +54,7 @@
                       border-bottom: 2px solid rgb(0 ,0 ,0);
                       background-color: rgba(255, 255, 255, 0.5);
                       border-radius: 20px;" 
-                      href="colormarkers\colormarkers.html">
+                      href="colormarkers">
                       3.ColorMarkers</a><br>
             <a style="display: block;
                       color: rgb(0 ,0 ,0);
@@ -64,7 +64,7 @@
                       border-bottom: 2px solid rgb(0 ,0 ,0);
                       background-color: rgba(255, 255, 255, 0.5);
                       border-radius: 20px;" 
-                      href="registrationform\registrationform.html">
+                      href="registrationform">
                       4.Registrationform</a><br>
             <a style="display: block;
                       color: rgb(0 ,0 ,0);
@@ -74,7 +74,7 @@
                       border-bottom: 2px solid rgb(0 ,0 ,0);
                       background-color: rgba(255, 255, 255, 0.5);
                       border-radius: 20px;" 
-                      href="surveyform\survey-form.html">
+                      href="surveyform">
                       5.Surveyform</a>
         </div>
     </section>
